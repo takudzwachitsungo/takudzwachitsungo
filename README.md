@@ -20,7 +20,7 @@
 
 <!-- Skills Section -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,html,css,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,py,dart,flutter,html,css,js,react,git,github,vscode)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,docker,linux)](https://skillicons.dev)
