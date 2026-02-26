@@ -60,7 +60,7 @@
 A full-stack crowdsourcing marketplace connecting **requesters** (clients who post work) with **annotators** (workers who complete tasks). Features include blockchain-powered escrow payments, AI-driven matching, and real-time collaboration. Built with a polyglot microservices architecture across 10 development phases.
 
 <div align="center">
-  <img src="https://i.postimg.cc/3rf5pXgW/Screenshot-2026-02-26-at-10-47-27.png" alt="Cicosy Crowdsourcing Dashboard"/>
+  <img src="https://i.postimg.cc/3rf5pXgW/Screenshot-2026-02-26-at-10-47-27.png" alt="Cicosy Crowdsourcing Dashboard" width="100%"/>
 </div>
 
 
@@ -76,7 +76,7 @@ A full-stack crowdsourcing marketplace connecting **requesters** (clients who po
 The platform for izndevs, a community-driven initiative built to empower and connect developers.
 
 <div align="center">
-  <img src="https://i.postimg.cc/TLsjKQkJ/Screenshot-2026-02-26-at-11-22-32.png" alt="izndevs Platform Dashboard"/>
+  <img src="https://i.postimg.cc/TLsjKQkJ/Screenshot-2026-02-26-at-11-22-32.png" alt="izndevs Platform Dashboard" width="100%"/>
 </div>
 
 **Built with:**
@@ -90,7 +90,7 @@ The platform for izndevs, a community-driven initiative built to empower and con
 A Christian-focused mental health companion application designed to provide holistic, faith-based support. The platform features an AI-driven conversational agent, daily mood and spiritual tracking, and personalized safety planning tools.
 
 <div align="center">
-  <img src="https://i.postimg.cc/Wdtkk0kw/Whats-App-Image-2026-02-26-at-11-22-07.jpg" alt="Dala App Screenshot"/>
+  <img src="https://i.postimg.cc/Wdtkk0kw/Whats-App-Image-2026-02-26-at-11-22-07.jpg" alt="Dala App Screenshot" width="100%"/>
 </div>
 
 **Key Features:**
