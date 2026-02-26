@@ -34,14 +34,14 @@
 
 ### Languages  
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=ts,py,dart,html,css,js&perline=3" /> 
+  <img src="https://skillicons.dev/icons?i=ts,py,dart,html,css,js,java&perline=3" /> 
 </div>
 
 </td><td valign="top" width="33%">
         
 ### Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,nextjs,bootstrap&perline=3" /> 
+  <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,nextjs,bootstrap,spring&perline=3" /> 
 </div>
 
 </td><td valign="top" width="33%">
@@ -53,6 +53,19 @@
 
 </td>
 </tr></table>
+
+<!-- Pinned Projects Section -->
+### 📌 Pinned Projects
+<div align="center">
+  <a href="https://github.com/takudzwachitsungo/Springboot-Recording-saving-importing-records-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=takudzwachitsungo&repo=Springboot-Recording-saving-importing-records-&theme=radical&margin-w=4" alt="Springboot Recording project" />
+  </a>
+  <a href="https://github.com/takudzwachitsungo/Reactive-Java-intergration">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=takudzwachitsungo&repo=Reactive-Java-intergration&theme=radical&margin-w=4" alt="Reactive Java Integration project" />
+  </a>
+</div>
+
+<br/>
 
 <!-- Connect Section -->
 ### Connect with me!
