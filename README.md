@@ -118,7 +118,7 @@ A Christian-focused mental health companion application designed to provide holi
 <!-- Resume Section -->
 ### Employer?
 > [!IMPORTANT]  
-> <a href="#" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1xw-mrfRhQevyiqHBozHft3sRQwyonWxU/view?usp=drive_link" target="_blank">View my resume</a>
 
 <!-- Waving Animated Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" alt="footer"/>
