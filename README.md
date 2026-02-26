@@ -71,6 +71,20 @@ A full-stack crowdsourcing marketplace connecting **requesters** (clients who po
 
 <br/>
 
+### 🚀 Featured Project: izndevs Platform
+
+The platform for izndevs, a community-driven initiative built to empower and connect developers.
+
+<div align="center">
+  <img src="https://i.postimg.cc/TLsjKQkJ/Screenshot-2026-02-26-at-11-22-32.png" alt="izndevs Platform Dashboard"/>
+</div>
+
+**Built with:**
+- `Python FastAPI` (Backend API)
+- `TypeScript` (Frontend)
+
+<br/>
+
 <!-- Connect Section -->
 ### Connect with me!
 <div>
