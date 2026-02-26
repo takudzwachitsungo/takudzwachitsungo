@@ -104,6 +104,32 @@ A Christian-focused mental health companion application designed to provide holi
 
 <br/>
 
+### 🚀 Featured Project: Finance Tracker
+
+A modern personal finance tracking application with AI-powered insights and impulse purchase prevention.
+
+<div align="center">
+  <img src="https://i.postimg.cc/wxWh5vfW/Screenshot-2026-02-26-at-11-43-18.png" alt="Finance Tracker Screenshot" width="100%"/>
+</div>
+
+**Key Features:**
+- **💰 Expense Tracking:** Log daily expenses with categories.
+- **💵 Income Management:** Track multiple income sources.
+- **🎯 Financial Goals:** Set and monitor savings goals.
+- **🔥 Streak Tracking:** Build healthy spending habits.
+- **🛡️ Impulse Control:** Smart intervention before impulse purchases.
+- **📊 AI Insights:** Real-time spending pattern analysis.
+- **📈 Visual Reports:** Heat maps and trend analysis.
+- **📑 Excel Reports:** Export detailed financial reports.
+- **🌙 Daily Reflections:** Track financial decisions and learnings.
+
+**Built with:**
+- `Python FastAPI` (Backend API)
+- `PostgreSQL & SQLAlchemy ORM` (Database)
+- `JWT Authentication & Alembic Migrations` (Security & Data Control)
+
+<br/>
+
 <!-- Connect Section -->
 ### Connect with me!
 <div>
