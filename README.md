@@ -71,6 +71,29 @@ A full-stack crowdsourcing marketplace connecting **requesters** (clients who po
 
 <br/>
 
+### 🚀 Featured Project: Enterprise CRM System with AI Intelligence
+
+A modern, full-stack Customer Relationship Management (CRM) system with integrated AI agents for sales automation, lead scoring, and forecasting. This is a production-ready CRM system designed for modern sales teams.
+
+<div align="center">
+  <img src="https://i.postimg.cc/2Sw-sxMJQ/Screenshot-2026-02-26-at-12-18-30.png" alt="Enterprise CRM Dashboard" width="100%"/>
+</div>
+
+**Key Features:**
+- **Complete CRM Functionality:** Manage leads, contacts, companies, deals, tasks, quotes, invoices, and more.
+- **AI-Powered Insights:** Real-time deal analysis, lead scoring, and sales forecasting.
+- **Interactive Dashboard:** Chat-based AI assistant with streaming responses.
+- **Real-Time Updates:** Background polling for live data synchronization.
+- **Enterprise-Grade Backend:** Spring Boot REST API with JWT authentication.
+- **Intelligent Agents:** Python-based AI service for autonomous sales operations.
+
+**Built with:**
+- `React 18 & TypeScript` (Frontend)
+- `Java Spring Boot 3.2+ & PostgreSQL` (Backend REST API)
+- `Python FastAPI & OpenAI/Claude API` (AI Service & Streaming SSE)
+
+<br/>
+
 ### 🚀 Featured Project: izndevs Platform
 
 The platform for izndevs, a community-driven initiative built to empower and connect developers.
