@@ -54,6 +54,22 @@
 </td>
 </tr></table>
 
+<!-- Featured Project Section -->
+### 🚀 Featured Project: Crowdsourcing Marketplace
+
+A full-stack crowdsourcing marketplace connecting **requesters** (clients who post work) with **annotators** (workers who complete tasks). Features include blockchain-powered escrow payments, AI-driven matching, and real-time collaboration. Built with a polyglot microservices architecture across 10 development phases.
+
+<div align="center">
+  <img src="./assets/crowdsourcing.png" alt="Cicosy Crowdsourcing Dashboard"/>
+</div>
+
+**Built with:**
+- `Java Spring Boot` (Core platform)
+- `Python` (AI microservices)
+- `Node.js` (Crypto & blockchain integrations)
+
+<br/>
+
 <!-- Connect Section -->
 ### Connect with me!
 <div>
