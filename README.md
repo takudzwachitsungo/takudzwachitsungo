@@ -33,23 +33,23 @@
 <table><tr><td valign="top" width="33%">
 
 ### Languages  
-<div align="center">  
+  
   <img src="https://skillicons.dev/icons?i=ts,py,dart,html,css,js,java&perline=3" /> 
-</div>
+
 
 </td><td valign="top" width="33%">
         
 ### Frameworks
-<div align="center">
+
   <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,nextjs,bootstrap,spring&perline=3" /> 
-</div>
+
 
 </td><td valign="top" width="33%">
   
 ### Tools & Others
-<div align="center">
+
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,linux&perline=3" /> 
-</div>
+
 
 </td>
 </tr></table>
@@ -59,9 +59,9 @@
 
 A full-stack crowdsourcing marketplace connecting **requesters** (clients who post work) with **annotators** (workers who complete tasks). Features include blockchain-powered escrow payments, AI-driven matching, and real-time collaboration. Built with a polyglot microservices architecture across 10 development phases.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/takudzwachitsungo/takudzwachitsungo/main/assets/crowdsourcing.png" alt="Cicosy Crowdsourcing Dashboard"/>
-</div>
+
+![Cicosy Crowdsourcing Dashboard](./assets/crowdsourcing.png)
+
 
 **Built with:**
 - `Java Spring Boot` (Core platform)
@@ -79,7 +79,7 @@ A full-stack crowdsourcing marketplace connecting **requesters** (clients who po
   <a href="mailto:takudzwachitsungo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email">
   </a>
-</div>
+
 
 <!-- Resume Section -->
 ### Employer?
