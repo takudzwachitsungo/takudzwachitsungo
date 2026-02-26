@@ -60,7 +60,7 @@
 A full-stack crowdsourcing marketplace connecting **requesters** (clients who post work) with **annotators** (workers who complete tasks). Features include blockchain-powered escrow payments, AI-driven matching, and real-time collaboration. Built with a polyglot microservices architecture across 10 development phases.
 
 <div align="center">
-  <img src="./assets/crowdsourcing.png" alt="Cicosy Crowdsourcing Dashboard"/>
+  <img src="https://raw.githubusercontent.com/takudzwachitsungo/takudzwachitsungo/main/assets/crowdsourcing.png" alt="Cicosy Crowdsourcing Dashboard"/>
 </div>
 
 **Built with:**
