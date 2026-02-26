@@ -85,6 +85,25 @@ The platform for izndevs, a community-driven initiative built to empower and con
 
 <br/>
 
+### 🚀 Featured Project: Dala - Mental Health & Faith Companion
+
+A Christian-focused mental health companion application designed to provide holistic, faith-based support. The platform features an AI-driven conversational agent, daily mood and spiritual tracking, and personalized safety planning tools.
+
+<div align="center">
+  <img src="https://i.postimg.cc/Wdtkk0kw/Whats-App-Image-2026-02-26-at-11-22-07.jpg" alt="Dala App Screenshot"/>
+</div>
+
+**Key Features:**
+- **AI Companion:** Conversational support utilizing the Llama versatile model via GroqCloud.
+- **Mood Tracking:** Intuitive tools to monitor emotional and spiritual well-being over time.
+- **Safety Planning:** Interactive resources to help users manage crises and find stability.
+
+**Built with:**
+- `Python FastAPI` (Backend Architecture)
+- `Llama Model via GroqCloud` (AI Capabilities)
+
+<br/>
+
 <!-- Connect Section -->
 ### Connect with me!
 <div>
